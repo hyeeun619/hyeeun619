@@ -16,7 +16,7 @@ Through learning new technologies and embracing challenges, I aim to further enh
 #### 📧 e-mail 📧  
 <img src="https://img.icons8.com/ios-glyphs/30/da3e91/new-post.png" title="gpdms7353@naver.com" style="pointer-events: none; cursor: default;" />
 
-<sub><sup>메일 주소가 궁금하다면 아이콘에 마우스를 올려보세요 🙂</sup></sub>
+<sub><sup>메일 주소가 궁금하다면 아이콘에 마우스를 올려보세요 :) </sup></sub>
 
 </div>
 
