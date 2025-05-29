@@ -13,10 +13,14 @@ Through learning new technologies and embracing challenges, I aim to further enh
 
 <div align="center">
   <h4 style="margin-bottom: 10px;">📧 e-mail 📧</h4>
-  <a href="mailto:gpdms7353@naver.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-glyphs/30/da3e91/new-post.png" alt="email icon" />
-  </a>
+  <img 
+    src="https://img.icons8.com/ios-glyphs/30/da3e91/new-post.png" 
+    alt="email icon" 
+    title="gpdms7353@naver.com" 
+    style="cursor: pointer;"
+  />
 </div>
+
 
 
 
