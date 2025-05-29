@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=HYEEUN&fontAlign=70&fontAlignY=40&color=gradient&customColorList=FFB6C1,D87093)
 
 # :bulb: Introduction
-
+<br>
 안녕하세요! 스마트팩토리 기술을 중심으로 역량을 키워가고 있는 개발자입니다. <br>
 자동화, 데이터 분석, 머신비전 등 다양한 기술을 익히며 꾸준히 성장해 나가겠습니다. <br>
 새로운 기술을 배우고 도전하며 전문성을 더욱 강화해 나갈 것입니다. <br>
