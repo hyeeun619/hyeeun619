@@ -1,7 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=HYEEUN&fontAlign=70&fontAlignY=40&color=gradient&customColorList=FFB6C1,D87093)
 
-# 🌟 Introduction
-안녕하세요 ! 스마트팩토리 기술을 중심으로 실력을 키워가는 개발자 입니다.
+### :paw_prints: Introduction
+
+안녕하세요! 스마트팩터리 기술을 중심으로 실력을 키워가는 개발자 **HYEEUN**입니다. 
+자동화, 데이터 분석, 머신비전 등 다양한 기술을 배우며 성장 중입니다.
+
+
+
+
+
 
 <!--
 **hyeeun619/hyeeun619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
