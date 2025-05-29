@@ -17,9 +17,10 @@ Through learning new technologies and embracing challenges, I aim to further enh
     src="https://img.icons8.com/ios-glyphs/30/da3e91/new-post.png" 
     alt="email icon" 
     title="gpdms7353@naver.com" 
-    style="cursor: pointer;"
+    style="pointer-events: none; cursor: default;"
   />
 </div>
+
 
 
 
