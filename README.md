@@ -27,12 +27,12 @@ Through learning new technologies and embracing challenges, I aim to further enh
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 
 
-**🔧 Tools & Platforms**  
+**:wrench: Tools & Platforms**  
 <img src="https://img.shields.io/badge/PLC-FF6F00?style=flat&logo=siemens&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HMI-0088CC?style=flat&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=raspberrypi&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/IoT-20C997?style=flat&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
 
 </div>
 
-## :mailbox: Contact
+# :mailbox: Contact
 
 <div align="center">
   
@@ -43,20 +43,21 @@ Through learning new technologies and embracing challenges, I aim to further enh
 <sub><sup>Hover over the icon to see the email address :) </sup></sub>
 
 
-#### 📝 Notion  
+#### :memo: Notion  
 <a href="https://www.notion.so/1ac7a64e664b80e39230d7c232c03c01" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.iconscout.com/icon/free/png-256/notion-3521503-2944980.png" title="Notion Profile" width="28" style="cursor:pointer;" />
 </a>
 
 </div>
 
+## :bar_chart: GitHub Stats
 
+<div align="center">
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeeun619&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+  ![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeun619&layout=compact&theme=graywhite)
 
-
-
-
-
+</div>
 
 
 
