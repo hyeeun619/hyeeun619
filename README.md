@@ -12,17 +12,14 @@ I am committed to continuous growth by mastering diverse skills such as automati
 Through learning new technologies and embracing challenges, I aim to further enhance my expertise. <br>
 
 <div align="center">
-  <h4 style="margin-bottom: 10px;">📧 e-mail 📧</h4>
-  <img 
-    src="https://img.icons8.com/ios-glyphs/30/da3e91/new-post.png" 
-    alt="email icon" 
-    title="gpdms7353@naver.com" 
-    style="pointer-events: none; cursor: default;"
-  />
-  <div style="font-size: 11px; color: #aaa; margin-top: 6px;">
-    메일 주소가 궁금하다면 아이콘에 마우스를 올려보세요 :)
-  </div>
+  
+#### 📧 e-mail 📧  
+<img src="https://img.icons8.com/ios-glyphs/30/da3e91/new-post.png" title="gpdms7353@naver.com" style="pointer-events: none; cursor: default;" />
+
+<sub><sup>메일 주소가 궁금하다면 아이콘에 마우스를 올려보세요 🙂</sup></sub>
+
 </div>
+
 
 
 
