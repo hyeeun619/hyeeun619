@@ -39,7 +39,9 @@ Through learning new technologies and embracing challenges, I aim to further enh
 #### 📧 e-mail  
 <img src="https://img.icons8.com/ios-glyphs/30/da3e91/new-post.png" title="gpdms7353@naver.com" style="pointer-events: none; cursor: default;" />
 
-<sub><sup>메일 주소가 궁금하다면 아이콘에 마우스를 올려보세요 :) </sup></sub>
+<sub><sup>메일 주소가 궁금하다면 아이콘에 마우스를 올려보세요 :) </sup></sub><br>
+<sub><sup>Hover over the icon to see the email address :) </sup></sub>
+
 
 #### 📝 Notion  
 <a href="https://www.notion.so/1ac7a64e664b80e39230d7c232c03c01" target="_blank" rel="noopener noreferrer">
