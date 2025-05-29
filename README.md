@@ -22,11 +22,6 @@
           </div>  <br> 
        </div> 
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=hyeeun619&bg_color=60,e6e6e6,ffffff&title_color=828282&text_color=828282"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeun619&layout=compact&bg_color=60,e6e6e6,ffffff&title_color=828282&text_color=828282"
-           /> </div> 
-    </div>
     
 
 
