@@ -19,7 +19,11 @@ Through learning new technologies and embracing challenges, I aim to further enh
     title="gpdms7353@naver.com" 
     style="pointer-events: none; cursor: default;"
   />
+  <div style="font-size: 12px; color: #888; margin-top: 5px;">
+    메일 주소가 궁금하다면 아이콘에 마우스를 올려보세요 :)
+  </div>
 </div>
+
 
 
 
