@@ -1,4 +1,8 @@
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
+
 <h1> 안녕하세요 ! 스마트팩토리 기술을 중심으로 실력을 키워가는 개발자 입니다.</h1>
+
+스마트팩토리 기술을 중심으로 실력을 키워가는 개발자 입니다.
 
 <!--
 **hyeeun619/hyeeun619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
