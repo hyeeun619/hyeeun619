@@ -7,9 +7,9 @@
 새로운 기술을 배우고 도전하며 전문성을 더욱 강화해 나갈 것입니다. <br>
 <br>
 
-Hello, I am a developer focused on strengthening my capabilities in smart factory technologies. <br>
-I am committed to continuous growth by mastering diverse skills such as automation, data analysis, and machine vision. <br>
-Through learning new technologies and embracing challenges, I aim to further enhance my expertise. <br>
+Hello! I am a developer bridging Smart Factory technologies and Front-End development. <br>
+I am continuously growing by learning various skills such as automation, data analysis, and machine vision. <br>
+I am committed to learning new technologies, embracing challenges, and strengthening my expertise further. <br>
 <br>
 <br>
 
